@@ -86,9 +86,7 @@
 ##---------------End: proguard configuration for Gson ----------
 
 
--keepclassmembers class com.ipath.mymediport.Models.** {
-   public *;
-}
+
 
 -keep class com.shockwave.**
 
